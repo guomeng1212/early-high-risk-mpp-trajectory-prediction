@@ -1,0 +1,6 @@
+﻿Model,ModelLabel,Threshold
+log_reg,Logistic regression,0.285736148161487
+xgboost,XGBoost,0.252792288255754
+ranger,Random forest,0.320019037630505
+svm,SVM-RBF,0.222976343207755
+kknn,k-NN,0.253668894619012

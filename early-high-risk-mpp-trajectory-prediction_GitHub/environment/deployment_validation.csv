@@ -1,0 +1,11 @@
+"Check","N","Max_abs_error","Pass"
+"train preprocessing parity",4826,0,TRUE
+"train TreeSHAP additivity",16,2.70619057118893e-06,TRUE
+"internal preprocessing parity",2070,0,TRUE
+"internal calibrated prediction parity",2070,6.66133814775094e-16,TRUE
+"internal raw prediction parity",2070,5.55111512312578e-16,TRUE
+"internal TreeSHAP additivity",16,2.85694841295481e-06,TRUE
+"eicu preprocessing parity",4944,0,TRUE
+"eicu calibrated prediction parity",4944,8.88178419700125e-16,TRUE
+"eicu raw prediction parity",4944,5.55111512312578e-16,TRUE
+"eicu TreeSHAP additivity",16,2.19023786485195e-06,TRUE

@@ -1,0 +1,11 @@
+﻿Setting,Value
+Mode,Formal
+CV folds,10
+Workers,10
+Tuning metric,PR-AUC
+XGBoost evaluations,200
+RF evaluations,150
+SVM evaluations,150
+kNN evaluations,100
+Bootstrap repetitions,1000
+Seed,20260902

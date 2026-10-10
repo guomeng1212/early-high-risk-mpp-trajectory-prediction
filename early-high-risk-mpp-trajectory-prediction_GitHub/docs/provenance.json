@@ -1,0 +1,166 @@
+{
+  "scripts": [
+    {
+      "file": "01_preprocessing.R",
+      "original_sha256": "00ad488d005e80ae51520638449f096ae0ed08f8eb371a02c0dfa12a21fb453d",
+      "packaged_sha256": "5e22e71cd1d9223a6586ac37d05272373389675da79f3b12e2bd76b9d8becd41",
+      "change": "Repository-relative output path; configurable cohort paths"
+    },
+    {
+      "file": "02_feature_engineering.R",
+      "original_sha256": "d0b25ed4da469452b1781fec7aa58a022007adb2a0230f01f31335526a3ba908",
+      "packaged_sha256": "eaaa1336a80af1036b4f191b9d64dee0e3599607cedeac9101c7cd780473bcd3",
+      "change": "Repository-relative output path only"
+    },
+    {
+      "file": "03_mlr3_machine_learning.R",
+      "original_sha256": "cb141b05d6566a4d74c379684bf010992f4f9c6c9c6059b304a1c185333ed0be",
+      "packaged_sha256": "ec72e2ff724e4078fb936cadff405bae8915d2d3799737b0929959678945529f",
+      "change": "Repository-relative output path only"
+    },
+    {
+      "file": "04_SHAP.R",
+      "original_sha256": "1ee46b0697fb1e1fe3b90d446abb91501190e8757acc08a158ca76e557a26f57",
+      "packaged_sha256": "6e7fc5663a7c1e451c4840dc1af08f8208229e451dd3e8d56d555461dc8b6e6e",
+      "change": "Repository-relative output path only"
+    },
+    {
+      "file": "05_replot_DCA_png.R",
+      "original_sha256": "0284f7de6ab476892e727897c7a0e8c00d720e3e26011525c61cd7a80b486627",
+      "packaged_sha256": "b71a59cbe1550b4270aabf7918e46dae69f424a6d64b922d6a5e92556b617d73",
+      "change": "Repository-relative output path only"
+    }
+  ],
+  "reference_outputs": [
+    {
+      "file": "results/01_cohort_summary.csv",
+      "sha256": "7d0b13beed258258e75a31ab1ebcbd5f14aff90037a54dd0ea98cdd54a0f94e5",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/02_LASSO_CV_source.csv",
+      "sha256": "247487fc382977b247032c567a37694c3b240adcaf8aabe0adb95adf659b4ec6",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/02_LASSO_path_source.csv",
+      "sha256": "1d64e1acb3997cd59ec180398bd006285c8aecd2ff57955eb23e9970efaea9ce",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/02_LASSO_selected_features.csv",
+      "sha256": "a45fc73281b67cc868a7fb9486d6c0809493963ba6d694717f4c15a04cd87899",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_best_hyperparameters.csv",
+      "sha256": "046327d9e2527dda334e857a60cb2b93bf5710a356ebd6ecb7bdb665dad18549",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_calibration_source.csv",
+      "sha256": "d7b9f86cd18dfbcbd6b9a2c0185e91bc303c09e480b1d2b1457713d7271dc074",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_calibration_statistics.csv",
+      "sha256": "e6038918b98ab816d7ca649455f9a6754cce888a0aaf9a19984a26400cca103d",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_classification_thresholds.csv",
+      "sha256": "fc58e6ef355097ea6eafebe5a4bf7500d75cd5aac885c6f0cde7d8a34a213e24",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_DCA_source.csv",
+      "sha256": "0a38afe3e0a2616f0867cf3f97e309e4d0e74aadc86b9a31608d2e2a9f73a32c",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_machine_learning_settings.csv",
+      "sha256": "65bea03367be0d0d10257a3f6cf9f922822ab2cc348bb03d0bf352a72257375d",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_performance_bootstrap_ci.csv",
+      "sha256": "ca396bdab7dbfe68bad405f114371d5d4aa20781893e34f2335ec5d96cd566b1",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_performance_metrics.csv",
+      "sha256": "f80936dddf595c074d1d15fc946247a41c0b99a10021e8155b7e40e7fc9a363a",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_tuning_kknn.csv",
+      "sha256": "9131c6e12e64335fdcea02fd8d9a03acc3c2a95eb89c8874b62eb100bbeae846",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_tuning_ranger.csv",
+      "sha256": "e7a5eb78c6c925eedee3f39a000c1c2d842284c43710ce96bcea55e824938313",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_tuning_svm.csv",
+      "sha256": "e3902f049125b767d53dcef09483592158dcf6a624283af6c1aac4fae6903459",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/03_tuning_xgboost.csv",
+      "sha256": "daf5d1e131ec6e2332dd2a74a7f4592545b75269221ec3ee9aa8affeae62d0ec",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/04_XGBoost_SHAP_importance.csv",
+      "sha256": "185eeeef1da35da6e6bd41d9b0c01702be5003ef8d16fa5ad1e1d00a609d9468",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/06_confusion_counts.csv",
+      "sha256": "a3e7f365b8cfb7198616d17298d105fbab8728d1a6d9117c28678d1095d3bd71",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "results/06_original_variable_selection.csv",
+      "sha256": "ae19eba7ccb18bdbd2267b759f6d271a6019067fb23e54ef688887ec027f0bc3",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "figures/01_LASSO_cross_validation.png",
+      "sha256": "f9578bd0e6822543ae989208120f5d31e8d5025bfd6674dda1198d3d593fd8e4",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "figures/02_LASSO_coefficient_paths.png",
+      "sha256": "c1ed77a79e478931097d23ccf709b186a6cdddf10d2c7416de474352b4f3e044",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "figures/03_Calibration.png",
+      "sha256": "fb8b60c277018c19b77ce8320ce54668eafb8b6fded50d823441fc1fbf9f0d40",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "figures/03_DCA.png",
+      "sha256": "4d79a4dd9d39d793f7ed3667ef3954eb6501d97736b8f09a5d5548b0f71508f6",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "figures/03_ROC.png",
+      "sha256": "1de03a21c47d83ea33e22749e3b64f015578c697fe18c92f15ad3adda05e8c5a",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "figures/04_SHAP_beeswarm.png",
+      "sha256": "2dc5abab124dc198fc62e081aec766f54de0458d85a1e070c1147c64a89b9344",
+      "source": "formal MPP analysis"
+    },
+    {
+      "file": "figures/04_SHAP_importance.png",
+      "sha256": "60970ccbb30380da632e1a05be1694c28216a9a2453958d2dc316005bb87bf48",
+      "source": "formal MPP analysis"
+    }
+  ]
+}

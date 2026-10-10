@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated article once its bibliographic details are available."
+title: "Early High-Risk MPP Trajectory Prediction after Cardiac Surgery"
+type: software
+authors:
+  - family-names: "Wang"
+    given-names: "Kangxing"
+version: "0.1.0"
+license: "MIT"
+abstract: "R workflow for predicting Classes 1 and 3 combined versus Classes 2 and 4 of predefined MPP trajectories after CABG and/or valve surgery."
+keywords:
+  - mean perfusion pressure
+  - cardiac surgery
+  - trajectory prediction
+  - machine learning
+  - SHAP
+# Add repository-code and the article's preferred-citation after their URLs exist.

@@ -1,0 +1,19 @@
+PASS: five original scripts changed only in the documented path configuration; source files unchanged.
+PASS: 19 aggregate CSVs and seven PNGs match the original formal-run files byte for byte.
+PASS: public package contains no raw cohorts, individual-level exports, model files, credentials or private absolute paths.
+PASS: all relative Markdown document/image links resolve.
+PASS: lockfile matches all recorded direct dependencies, including the verified XGBoost version.
+PASS: ignore rules block local cohorts, private outputs and model artifacts while retaining documentation and public code/results.
+
+PASS: 11 R files parse.
+PASS: local model feature order, calibration, missing values, winsorization, categorical handling, batch prediction and exact TreeSHAP.
+Checks completed. These checks do not refit the manuscript analysis.
+Warning messages:
+1: package 'shiny' was built under R version 4.4.3 
+2: package 'bslib' was built under R version 4.4.3 
+3: package 'ggplot2' was built under R version 4.4.3 
+PASS: Shiny server calculation, displayed probability/SHAP, plots, explicit recalculation and population checks.
+PASS: public code starts with clear instructions when no local model exists.
+
+PASS: local browser displayed calibrated probability, class assignment, threshold and all 13 SHAP contributions.
+Scope: code packaging and local calculator validation; no refit of the five-model analysis.

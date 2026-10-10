@@ -1,0 +1,6 @@
+﻿Model,ModelLabel,Parameters
+log_reg,Logistic regression,maxit=500; use_pred_offset=TRUE
+xgboost,XGBoost,alpha=0.00677988140842156; colsample_bytree=0.613880659337156; eta=0.00903540651064048; eval_metric=aucpr; gamma=0.000912364780209884; lambda=0.000379185764554958; max_depth=2; min_child_weight=1.05559104015104; nrounds=1157; nthread=10; objective=binary:logistic; subsample=0.523895062389784; verbose=0
+ranger,Random forest,importance=permutation; min.node.size=40; mtry.ratio=0.581528359809174; num.threads=10; num.trees=1500; sample.fraction=0.536512561375275; seed=20260902; splitrule=extratrees
+svm,SVM-RBF,cachesize=2000; cost=14.1418046888925; gamma=0.00396777941220588; kernel=radial; scale=FALSE; type=C-classification
+kknn,k-NN,k=96; distance=1.10715310741216; kernel=triangular; scale=FALSE; store_model=TRUE

@@ -1,0 +1,16 @@
+Harmonized_name,Original_name_or_alias,Role_in_supplied_run,Type,Expected_units_or_values,Missing_value_handling,Timing,Notes
+stay_id,stay_id,identifier,string/integer,Unique nonmissing stay identifier,not used,N/A,Identifier only
+Class,class; group fallback,outcome source,category,1;2;3;4 or Class 1;Class 2;Class 3;Class 4,not used,Predefined trajectory label,Class 1 + Class 3 = HighRisk; Class 2 + Class 4 = Other
+Age,age,candidate; selected,numeric,years,training median; 1st/99th percentile winsorization,Study baseline,
+Gender,gender,candidate; selected,category,F;M,training mode; unseen category = Unknown,Study baseline,Encoded feature GenderF retained
+Race,race,candidate; selected,category,Asian;Black;Other;White,training mode; unseen category = Unknown,Study baseline,RaceBlack and RaceWhite retained
+CABG,icd2_cabg,candidate; selected,binary,0/1; No/Yes,training mode,Index surgery,CABG OR valve surgery defines surgery eligibility upstream
+Valve,icd2_valve,candidate; selected,binary,0/1; No/Yes,training mode,Index surgery,Includes patients who also underwent CABG
+SOFA,sofa,candidate; selected,numeric,score,training median; 1st/99th percentile winsorization,Extraction window must match study protocol,
+CCI,charlson,candidate; selected,numeric,score,training median; 1st/99th percentile winsorization,Study baseline,Charlson Comorbidity Index
+Hb,lab_in_icu_hemoglobin_first,candidate; selected,numeric,g/dL,training median; 1st/99th percentile winsorization,First ICU measurement,No automatic unit conversion
+WBC,lab_in_icu_wbc_first,candidate; not selected,numeric,10^9/L,training median; 1st/99th percentile winsorization,First ICU measurement,Required for original LASSO; omitted from calculator inputs
+Plt,lab_in_icu_platelet_first,candidate; selected,numeric,10^9/L,training median; 1st/99th percentile winsorization,First ICU measurement,No automatic unit conversion
+Vasopressors,drug_24h_vaso_tag,candidate; selected,binary,0/1; No/Yes,training mode,First 24 hours,Availability before intended prediction time requires confirmation
+Mechanical_Ventilation,itvtn_24h_vent_tag,candidate; selected,binary,0/1; No/Yes,training mode,First 24 hours,Availability before intended prediction time requires confirmation
+MPP,first_mpp,candidate; selected,numeric,mmHg,training median; 1st/99th percentile winsorization,First available MPP in study input,Mean perfusion pressure; derivation and time alignment occur upstream

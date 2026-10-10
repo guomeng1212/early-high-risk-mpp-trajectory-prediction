@@ -1,0 +1,14 @@
+﻿Variable,Selected
+Age,TRUE
+Gender,TRUE
+Race,TRUE
+CABG,TRUE
+Valve,TRUE
+SOFA,TRUE
+CCI,TRUE
+Hb,TRUE
+WBC,FALSE
+Plt,TRUE
+Vasopressors,TRUE
+Mechanical_Ventilation,TRUE
+MPP,TRUE

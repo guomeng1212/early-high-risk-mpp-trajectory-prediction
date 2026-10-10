@@ -1,0 +1,1121 @@
+﻿Cohort,Strategy,Threshold,NetBenefit
+MIMIC-IV internal validation,Logistic regression,0.01,0.252164153613429
+MIMIC-IV internal validation,Logistic regression,0.02,0.244050083801637
+MIMIC-IV internal validation,Logistic regression,0.03,0.234598336570546
+MIMIC-IV internal validation,Logistic regression,0.04,0.227274557165861
+MIMIC-IV internal validation,Logistic regression,0.05,0.220798372743453
+MIMIC-IV internal validation,Logistic regression,0.06,0.214883338472608
+MIMIC-IV internal validation,Logistic regression,0.07,0.207625577892058
+MIMIC-IV internal validation,Logistic regression,0.08,0.201785339214451
+MIMIC-IV internal validation,Logistic regression,0.09,0.194770929553538
+MIMIC-IV internal validation,Logistic regression,0.1,0.18894256575416
+MIMIC-IV internal validation,Logistic regression,0.11,0.18501872659176
+MIMIC-IV internal validation,Logistic regression,0.12,0.181686429512516
+MIMIC-IV internal validation,Logistic regression,0.13,0.176522849686268
+MIMIC-IV internal validation,Logistic regression,0.14,0.172486237501404
+MIMIC-IV internal validation,Logistic regression,0.15,0.169309462915601
+MIMIC-IV internal validation,Logistic regression,0.16,0.164021164021164
+MIMIC-IV internal validation,Logistic regression,0.17,0.160566905302369
+MIMIC-IV internal validation,Logistic regression,0.18,0.157664663603158
+MIMIC-IV internal validation,Logistic regression,0.19,0.155126140633387
+MIMIC-IV internal validation,Logistic regression,0.2,0.151086956521739
+MIMIC-IV internal validation,Logistic regression,0.21,0.14786889255794
+MIMIC-IV internal validation,Logistic regression,0.22,0.144035674470457
+MIMIC-IV internal validation,Logistic regression,0.23,0.141100445448272
+MIMIC-IV internal validation,Logistic regression,0.24,0.137096364098652
+MIMIC-IV internal validation,Logistic regression,0.25,0.134943639291465
+MIMIC-IV internal validation,Logistic regression,0.26,0.132549941245593
+MIMIC-IV internal validation,Logistic regression,0.27,0.129184038117927
+MIMIC-IV internal validation,Logistic regression,0.28,0.128153515834675
+MIMIC-IV internal validation,Logistic regression,0.29,0.124453970198
+MIMIC-IV internal validation,Logistic regression,0.3,0.118426501035197
+MIMIC-IV internal validation,Logistic regression,0.31,0.114814814814815
+MIMIC-IV internal validation,Logistic regression,0.32,0.111821540210287
+MIMIC-IV internal validation,Logistic regression,0.33,0.107996250630903
+MIMIC-IV internal validation,Logistic regression,0.34,0.105621431708388
+MIMIC-IV internal validation,Logistic regression,0.35,0.103530286138982
+MIMIC-IV internal validation,Logistic regression,0.36,0.0983695652173913
+MIMIC-IV internal validation,Logistic regression,0.37,0.0962349513074151
+MIMIC-IV internal validation,Logistic regression,0.38,0.0937042231572386
+MIMIC-IV internal validation,Logistic regression,0.39,0.0933555080383306
+MIMIC-IV internal validation,Logistic regression,0.4,0.0890499194847021
+MIMIC-IV internal validation,Logistic regression,0.41,0.0845410628019324
+MIMIC-IV internal validation,Logistic regression,0.42,0.0846576711644178
+MIMIC-IV internal validation,Logistic regression,0.43,0.0836172556996356
+MIMIC-IV internal validation,Logistic regression,0.44,0.0819530710835059
+MIMIC-IV internal validation,Logistic regression,0.45,0.0815985946420729
+MIMIC-IV internal validation,Logistic regression,0.46,0.0790123456790124
+MIMIC-IV internal validation,Logistic regression,0.47,0.0759730197794185
+MIMIC-IV internal validation,Logistic regression,0.48,0.0758082497212932
+MIMIC-IV internal validation,Logistic regression,0.49,0.0726153263237662
+MIMIC-IV internal validation,Logistic regression,0.5,0.0719806763285024
+MIMIC-IV internal validation,Logistic regression,0.51,0.0721187025534852
+MIMIC-IV internal validation,Logistic regression,0.52,0.0724637681159421
+MIMIC-IV internal validation,Logistic regression,0.53,0.069041011409189
+MIMIC-IV internal validation,Logistic regression,0.54,0.0679479101029196
+MIMIC-IV internal validation,Logistic regression,0.55,0.066935050993022
+MIMIC-IV internal validation,Logistic regression,0.56,0.0661396574440053
+MIMIC-IV internal validation,Logistic regression,0.57,0.0626895854398382
+MIMIC-IV internal validation,Logistic regression,0.58,0.0579940188635841
+MIMIC-IV internal validation,Logistic regression,0.59,0.0563332155060681
+MIMIC-IV internal validation,Logistic regression,0.6,0.0567632850241546
+MIMIC-IV internal validation,Logistic regression,0.61,0.0574259878607705
+MIMIC-IV internal validation,Logistic regression,0.62,0.0544622425629291
+MIMIC-IV internal validation,Logistic regression,0.63,0.0508682595639117
+MIMIC-IV internal validation,Logistic regression,0.64,0.0492753623188406
+MIMIC-IV internal validation,Logistic regression,0.65,0.0481711525189786
+MIMIC-IV internal validation,Logistic regression,0.66,0.0463199772662688
+MIMIC-IV internal validation,Logistic regression,0.67,0.0444883618796662
+MIMIC-IV internal validation,Logistic regression,0.68,0.0429347826086957
+MIMIC-IV internal validation,Logistic regression,0.69,0.0425276609007324
+MIMIC-IV internal validation,Logistic regression,0.7,0.0415458937198068
+MIMIC-IV internal validation,Logistic regression,0.71,0.0359320339830085
+MIMIC-IV internal validation,Logistic regression,0.72,0.0342305037957212
+MIMIC-IV internal validation,Logistic regression,0.73,0.0324387189121489
+MIMIC-IV internal validation,Logistic regression,0.74,0.0298773690078038
+MIMIC-IV internal validation,Logistic regression,0.75,0.0304347826086957
+MIMIC-IV internal validation,Logistic regression,0.76,0.0292270531400966
+MIMIC-IV internal validation,Logistic regression,0.77,0.0281243436252888
+MIMIC-IV internal validation,Logistic regression,0.78,0.0254281949934124
+MIMIC-IV internal validation,Logistic regression,0.79,0.0225442834138486
+MIMIC-IV internal validation,Logistic regression,0.8,0.0202898550724638
+eICU external validation,Logistic regression,0.01,0.382030253996273
+eICU external validation,Logistic regression,0.02,0.37563981903441
+eICU external validation,Logistic regression,0.03,0.368289794148067
+eICU external validation,Logistic regression,0.04,0.359939657497303
+eICU external validation,Logistic regression,0.05,0.352420797138477
+eICU external validation,Logistic regression,0.06,0.34393720305722
+eICU external validation,Logistic regression,0.07,0.335008003619028
+eICU external validation,Logistic regression,0.08,0.329041789784719
+eICU external validation,Logistic regression,0.09,0.321586382872791
+eICU external validation,Logistic regression,0.1,0.314185544768069
+eICU external validation,Logistic regression,0.11,0.307107014290389
+eICU external validation,Logistic regression,0.12,0.298038025889968
+eICU external validation,Logistic regression,0.13,0.291052895882156
+eICU external validation,Logistic regression,0.14,0.285942086249718
+eICU external validation,Logistic regression,0.15,0.280494479345136
+eICU external validation,Logistic regression,0.16,0.27319309600863
+eICU external validation,Logistic regression,0.17,0.267721370920575
+eICU external validation,Logistic regression,0.18,0.263887244454969
+eICU external validation,Logistic regression,0.19,0.25756622318111
+eICU external validation,Logistic regression,0.2,0.249241504854369
+eICU external validation,Logistic regression,0.21,0.242447052558273
+eICU external validation,Logistic regression,0.22,0.237070575056012
+eICU external validation,Logistic regression,0.23,0.230293573740176
+eICU external validation,Logistic regression,0.24,0.224578436382218
+eICU external validation,Logistic regression,0.25,0.21898597626753
+eICU external validation,Logistic regression,0.26,0.212947170471442
+eICU external validation,Logistic regression,0.27,0.207959280932748
+eICU external validation,Logistic regression,0.28,0.202905879180151
+eICU external validation,Logistic regression,0.29,0.196715894069921
+eICU external validation,Logistic regression,0.3,0.192961165048544
+eICU external validation,Logistic regression,0.31,0.187881079686694
+eICU external validation,Logistic regression,0.32,0.183240529221397
+eICU external validation,Logistic regression,0.33,0.178201830652562
+eICU external validation,Logistic regression,0.34,0.174928900657056
+eICU external validation,Logistic regression,0.35,0.169918471496141
+eICU external validation,Logistic regression,0.36,0.164517597087379
+eICU external validation,Logistic regression,0.37,0.160322597215801
+eICU external validation,Logistic regression,0.38,0.155483348992588
+eICU external validation,Logistic regression,0.39,0.150860125205581
+eICU external validation,Logistic regression,0.4,0.144080366774542
+eICU external validation,Logistic regression,0.41,0.140776699029126
+eICU external validation,Logistic regression,0.42,0.1373800357103
+eICU external validation,Logistic regression,0.43,0.13353063078408
+eICU external validation,Logistic regression,0.44,0.127181576514101
+eICU external validation,Logistic regression,0.45,0.124246101794646
+eICU external validation,Logistic regression,0.46,0.119321586959127
+eICU external validation,Logistic regression,0.47,0.113955547414056
+eICU external validation,Logistic regression,0.48,0.109705626089121
+eICU external validation,Logistic regression,0.49,0.105832381496288
+eICU external validation,Logistic regression,0.5,0.104571197411003
+eICU external validation,Logistic regression,0.51,0.102139885080246
+eICU external validation,Logistic regression,0.52,0.0978627292340884
+eICU external validation,Logistic regression,0.53,0.0925600771190525
+eICU external validation,Logistic regression,0.54,0.0878183481074997
+eICU external validation,Logistic regression,0.55,0.0838727076591154
+eICU external validation,Logistic regression,0.56,0.0805935569285084
+eICU external validation,Logistic regression,0.57,0.0773641529314367
+eICU external validation,Logistic regression,0.58,0.0759650947757744
+eICU external validation,Logistic regression,0.59,0.0706646144131344
+eICU external validation,Logistic regression,0.6,0.0665453074433657
+eICU external validation,Logistic regression,0.61,0.0647664094266036
+eICU external validation,Logistic regression,0.62,0.0602431442684381
+eICU external validation,Logistic regression,0.63,0.0579189626519724
+eICU external validation,Logistic regression,0.64,0.0560275080906149
+eICU external validation,Logistic regression,0.65,0.0523578363384189
+eICU external validation,Logistic regression,0.66,0.0495669141442985
+eICU external validation,Logistic regression,0.67,0.0504192409532215
+eICU external validation,Logistic regression,0.68,0.0473300970873786
+eICU external validation,Logistic regression,0.69,0.0456597765946341
+eICU external validation,Logistic regression,0.7,0.0436893203883495
+eICU external validation,Logistic regression,0.71,0.0417991853587769
+eICU external validation,Logistic regression,0.72,0.0373613037447989
+eICU external validation,Logistic regression,0.73,0.0350518398657557
+eICU external validation,Logistic regression,0.74,0.0318956933034603
+eICU external validation,Logistic regression,0.75,0.0293284789644013
+eICU external validation,Logistic regression,0.76,0.0254517259978425
+eICU external validation,Logistic regression,0.77,0.0253799071338117
+eICU external validation,Logistic regression,0.78,0.0228559870550162
+eICU external validation,Logistic regression,0.79,0.0201013253197719
+eICU external validation,Logistic regression,0.8,0.0175970873786408
+MIMIC-IV internal validation,XGBoost,0.01,0.253891572732152
+MIMIC-IV internal validation,XGBoost,0.02,0.245952873903185
+MIMIC-IV internal validation,XGBoost,0.03,0.238677224961402
+MIMIC-IV internal validation,XGBoost,0.04,0.232105475040258
+MIMIC-IV internal validation,XGBoost,0.05,0.224891939994915
+MIMIC-IV internal validation,XGBoost,0.06,0.217309075958475
+MIMIC-IV internal validation,XGBoost,0.07,0.210882551555763
+MIMIC-IV internal validation,XGBoost,0.08,0.204914933837429
+MIMIC-IV internal validation,XGBoost,0.09,0.197786271699315
+MIMIC-IV internal validation,XGBoost,0.1,0.191411701556629
+MIMIC-IV internal validation,XGBoost,0.11,0.1881506812137
+MIMIC-IV internal validation,XGBoost,0.12,0.184650856389987
+MIMIC-IV internal validation,XGBoost,0.13,0.179410294852574
+MIMIC-IV internal validation,XGBoost,0.14,0.175935288169869
+MIMIC-IV internal validation,XGBoost,0.15,0.171639670360898
+MIMIC-IV internal validation,XGBoost,0.16,0.167724867724868
+MIMIC-IV internal validation,XGBoost,0.17,0.163581863686631
+MIMIC-IV internal validation,XGBoost,0.18,0.157723577235772
+MIMIC-IV internal validation,XGBoost,0.19,0.155937257708594
+MIMIC-IV internal validation,XGBoost,0.2,0.151690821256039
+MIMIC-IV internal validation,XGBoost,0.21,0.147440836543753
+MIMIC-IV internal validation,XGBoost,0.22,0.144419670506627
+MIMIC-IV internal validation,XGBoost,0.23,0.142104272539055
+MIMIC-IV internal validation,XGBoost,0.24,0.138520213577422
+MIMIC-IV internal validation,XGBoost,0.25,0.133977455716586
+MIMIC-IV internal validation,XGBoost,0.26,0.128110719415067
+MIMIC-IV internal validation,XGBoost,0.27,0.123671497584541
+MIMIC-IV internal validation,XGBoost,0.28,0.118733225979603
+MIMIC-IV internal validation,XGBoost,0.29,0.117847179696537
+MIMIC-IV internal validation,XGBoost,0.3,0.115182884748102
+MIMIC-IV internal validation,XGBoost,0.31,0.112112301337254
+MIMIC-IV internal validation,XGBoost,0.32,0.105740267121341
+MIMIC-IV internal validation,XGBoost,0.33,0.102271252433485
+MIMIC-IV internal validation,XGBoost,0.34,0.101317523056654
+MIMIC-IV internal validation,XGBoost,0.35,0.0970642883686362
+MIMIC-IV internal validation,XGBoost,0.36,0.0960144927536232
+MIMIC-IV internal validation,XGBoost,0.37,0.0940035273368606
+MIMIC-IV internal validation,XGBoost,0.38,0.0932678821879383
+MIMIC-IV internal validation,XGBoost,0.39,0.088944325651382
+MIMIC-IV internal validation,XGBoost,0.4,0.0890499194847021
+MIMIC-IV internal validation,XGBoost,0.41,0.0864652419552935
+MIMIC-IV internal validation,XGBoost,0.42,0.083408295852074
+MIMIC-IV internal validation,XGBoost,0.43,0.0825493685905585
+MIMIC-IV internal validation,XGBoost,0.44,0.0800897170462388
+MIMIC-IV internal validation,XGBoost,0.45,0.0792270531400966
+MIMIC-IV internal validation,XGBoost,0.46,0.0775451780282698
+MIMIC-IV internal validation,XGBoost,0.47,0.0765563759001003
+MIMIC-IV internal validation,XGBoost,0.48,0.0766629505759941
+MIMIC-IV internal validation,XGBoost,0.49,0.0755138770484039
+MIMIC-IV internal validation,XGBoost,0.5,0.0743961352657005
+MIMIC-IV internal validation,XGBoost,0.51,0.0714384304446416
+MIMIC-IV internal validation,XGBoost,0.52,0.0700885668276973
+MIMIC-IV internal validation,XGBoost,0.53,0.0692054681878919
+MIMIC-IV internal validation,XGBoost,0.54,0.0697542533081285
+MIMIC-IV internal validation,XGBoost,0.55,0.0670424047235641
+MIMIC-IV internal validation,XGBoost,0.56,0.0646025472112428
+MIMIC-IV internal validation,XGBoost,0.57,0.0606673407482305
+MIMIC-IV internal validation,XGBoost,0.58,0.0596963423050379
+MIMIC-IV internal validation,XGBoost,0.59,0.0594320725815954
+MIMIC-IV internal validation,XGBoost,0.6,0.057487922705314
+MIMIC-IV internal validation,XGBoost,0.61,0.0558404558404558
+MIMIC-IV internal validation,XGBoost,0.62,0.0556826849733028
+MIMIC-IV internal validation,XGBoost,0.63,0.0548113330722026
+MIMIC-IV internal validation,XGBoost,0.64,0.0566290928609769
+MIMIC-IV internal validation,XGBoost,0.65,0.0546583850931677
+MIMIC-IV internal validation,XGBoost,0.66,0.0514350667803353
+MIMIC-IV internal validation,XGBoost,0.67,0.0501390718782023
+MIMIC-IV internal validation,XGBoost,0.68,0.0484299516908213
+MIMIC-IV internal validation,XGBoost,0.69,0.0503973819541842
+MIMIC-IV internal validation,XGBoost,0.7,0.0499194847020934
+MIMIC-IV internal validation,XGBoost,0.71,0.048575712143928
+MIMIC-IV internal validation,XGBoost,0.72,0.0448585231193927
+MIMIC-IV internal validation,XGBoost,0.73,0.0441044909643944
+MIMIC-IV internal validation,XGBoost,0.74,0.0401709401709402
+MIMIC-IV internal validation,XGBoost,0.75,0.0376811594202899
+MIMIC-IV internal validation,XGBoost,0.76,0.034219001610306
+MIMIC-IV internal validation,XGBoost,0.77,0.0286494433942449
+MIMIC-IV internal validation,XGBoost,0.78,0.0272727272727273
+MIMIC-IV internal validation,XGBoost,0.79,0.0264550264550265
+MIMIC-IV internal validation,XGBoost,0.8,0.0270531400966184
+eICU external validation,XGBoost,0.01,0.382784152201628
+eICU external validation,XGBoost,0.02,0.376514926358893
+eICU external validation,XGBoost,0.03,0.369947536115838
+eICU external validation,XGBoost,0.04,0.361642057713053
+eICU external validation,XGBoost,0.05,0.352431442684381
+eICU external validation,XGBoost,0.06,0.342706396749983
+eICU external validation,XGBoost,0.07,0.331721735045412
+eICU external validation,XGBoost,0.08,0.322155972984382
+eICU external validation,XGBoost,0.09,0.312446655286461
+eICU external validation,XGBoost,0.1,0.303487953973391
+eICU external validation,XGBoost,0.11,0.294507472455547
+eICU external validation,XGBoost,0.12,0.286554869079141
+eICU external validation,XGBoost,0.13,0.280988449949782
+eICU external validation,XGBoost,0.14,0.272743094754271
+eICU external validation,XGBoost,0.15,0.264586902722254
+eICU external validation,XGBoost,0.16,0.259044151641239
+eICU external validation,XGBoost,0.17,0.253292295395173
+eICU external validation,XGBoost,0.18,0.247178151393164
+eICU external validation,XGBoost,0.19,0.239824303807583
+eICU external validation,XGBoost,0.2,0.233919902912621
+eICU external validation,XGBoost,0.21,0.227059522346483
+eICU external validation,XGBoost,0.22,0.222709733632064
+eICU external validation,XGBoost,0.23,0.217979027445047
+eICU external validation,XGBoost,0.24,0.213177056719469
+eICU external validation,XGBoost,0.25,0.207793959007551
+eICU external validation,XGBoost,0.26,0.202205239219802
+eICU external validation,XGBoost,0.27,0.196629649332801
+eICU external validation,XGBoost,0.28,0.191781283710895
+eICU external validation,XGBoost,0.29,0.187713660604403
+eICU external validation,XGBoost,0.3,0.182732316227462
+eICU external validation,XGBoost,0.31,0.178365813048168
+eICU external validation,XGBoost,0.32,0.174911955073291
+eICU external validation,XGBoost,0.33,0.171659904361687
+eICU external validation,XGBoost,0.34,0.167236687260959
+eICU external validation,XGBoost,0.35,0.16168782673637
+eICU external validation,XGBoost,0.36,0.157514158576052
+eICU external validation,XGBoost,0.37,0.153846894744953
+eICU external validation,XGBoost,0.38,0.150883442948116
+eICU external validation,XGBoost,0.39,0.145090588360125
+eICU external validation,XGBoost,0.4,0.141585760517799
+eICU external validation,XGBoost,0.41,0.138075256431353
+eICU external validation,XGBoost,0.42,0.13429025778373
+eICU external validation,XGBoost,0.43,0.130383097711917
+eICU external validation,XGBoost,0.44,0.126805940822931
+eICU external validation,XGBoost,0.45,0.122958958517211
+eICU external validation,XGBoost,0.46,0.120100683207479
+eICU external validation,XGBoost,0.47,0.114844751786041
+eICU external validation,XGBoost,0.48,0.112475105800349
+eICU external validation,XGBoost,0.49,0.108989307697189
+eICU external validation,XGBoost,0.5,0.104368932038835
+eICU external validation,XGBoost,0.51,0.101442275939502
+eICU external validation,XGBoost,0.52,0.0977953074433657
+eICU external validation,XGBoost,0.53,0.0946214625077463
+eICU external validation,XGBoost,0.54,0.092312157028282
+eICU external validation,XGBoost,0.55,0.0910194174757281
+eICU external validation,XGBoost,0.56,0.0878751103265666
+eICU external validation,XGBoost,0.57,0.0863579062241288
+eICU external validation,XGBoost,0.58,0.0829384342733857
+eICU external validation,XGBoost,0.59,0.0812514799905281
+eICU external validation,XGBoost,0.6,0.0807038834951456
+eICU external validation,XGBoost,0.61,0.0768193510911958
+eICU external validation,XGBoost,0.62,0.0742207460398569
+eICU external validation,XGBoost,0.63,0.0725914020816934
+eICU external validation,XGBoost,0.64,0.0682982740021575
+eICU external validation,XGBoost,0.65,0.0661118816458622
+eICU external validation,XGBoost,0.66,0.0640824290881401
+eICU external validation,XGBoost,0.67,0.0613109247817986
+eICU external validation,XGBoost,0.68,0.0565331715210356
+eICU external validation,XGBoost,0.69,0.054187545672826
+eICU external validation,XGBoost,0.7,0.0526564185544768
+eICU external validation,XGBoost,0.71,0.0483693226202433
+eICU external validation,XGBoost,0.72,0.0465788257050393
+eICU external validation,XGBoost,0.73,0.0463112789164569
+eICU external validation,XGBoost,0.74,0.0418066965397063
+eICU external validation,XGBoost,0.75,0.0372168284789644
+eICU external validation,XGBoost,0.76,0.0335760517799353
+eICU external validation,XGBoost,0.77,0.0308498663289714
+eICU external validation,XGBoost,0.78,0.0256877022653722
+eICU external validation,XGBoost,0.79,0.024608953613808
+eICU external validation,XGBoost,0.8,0.0184061488673139
+MIMIC-IV internal validation,Random forest,0.01,0.25405748304299
+MIMIC-IV internal validation,Random forest,0.02,0.24622892635315
+MIMIC-IV internal validation,Random forest,0.03,0.239827680661388
+MIMIC-IV internal validation,Random forest,0.04,0.230475040257649
+MIMIC-IV internal validation,Random forest,0.05,0.224586829392321
+MIMIC-IV internal validation,Random forest,0.06,0.217134340631103
+MIMIC-IV internal validation,Random forest,0.07,0.211007220404135
+MIMIC-IV internal validation,Random forest,0.08,0.205692081495484
+MIMIC-IV internal validation,Random forest,0.09,0.200637044115305
+MIMIC-IV internal validation,Random forest,0.1,0.194095544820183
+MIMIC-IV internal validation,Random forest,0.11,0.189073440807686
+MIMIC-IV internal validation,Random forest,0.12,0.183706631532719
+MIMIC-IV internal validation,Random forest,0.13,0.179948914431673
+MIMIC-IV internal validation,Random forest,0.14,0.173991686327379
+MIMIC-IV internal validation,Random forest,0.15,0.17027564649048
+MIMIC-IV internal validation,Random forest,0.16,0.167540832758224
+MIMIC-IV internal validation,Random forest,0.17,0.164105698154939
+MIMIC-IV internal validation,Random forest,0.18,0.161882879698362
+MIMIC-IV internal validation,Random forest,0.19,0.15940836166279
+MIMIC-IV internal validation,Random forest,0.2,0.154951690821256
+MIMIC-IV internal validation,Random forest,0.21,0.147575368433927
+MIMIC-IV internal validation,Random forest,0.22,0.143478260869565
+MIMIC-IV internal validation,Random forest,0.23,0.139456678587113
+MIMIC-IV internal validation,Random forest,0.24,0.13579964403763
+MIMIC-IV internal validation,Random forest,0.25,0.133333333333333
+MIMIC-IV internal validation,Random forest,0.26,0.128149889019454
+MIMIC-IV internal validation,Random forest,0.27,0.123102375752763
+MIMIC-IV internal validation,Random forest,0.28,0.120316693505099
+MIMIC-IV internal validation,Random forest,0.29,0.118684085187453
+MIMIC-IV internal validation,Random forest,0.3,0.116149068322981
+MIMIC-IV internal validation,Random forest,0.31,0.113421550094518
+MIMIC-IV internal validation,Random forest,0.32,0.112503552145496
+MIMIC-IV internal validation,Random forest,0.33,0.106849808926383
+MIMIC-IV internal validation,Random forest,0.34,0.103001024740155
+MIMIC-IV internal validation,Random forest,0.35,0.100445930880713
+MIMIC-IV internal validation,Random forest,0.36,0.0990640096618357
+MIMIC-IV internal validation,Random forest,0.37,0.0964496587684993
+MIMIC-IV internal validation,Random forest,0.38,0.0933458002181705
+MIMIC-IV internal validation,Random forest,0.39,0.0915736121010533
+MIMIC-IV internal validation,Random forest,0.4,0.0909822866344605
+MIMIC-IV internal validation,Random forest,0.41,0.0878326373536396
+MIMIC-IV internal validation,Random forest,0.42,0.0881059470264868
+MIMIC-IV internal validation,Random forest,0.43,0.0856937028561743
+MIMIC-IV internal validation,Random forest,0.44,0.0849551414768806
+MIMIC-IV internal validation,Random forest,0.45,0.0839262187088274
+MIMIC-IV internal validation,Random forest,0.46,0.0825729110753265
+MIMIC-IV internal validation,Random forest,0.47,0.079400236988424
+MIMIC-IV internal validation,Random forest,0.48,0.0786324786324786
+MIMIC-IV internal validation,Random forest,0.49,0.0769631524107228
+MIMIC-IV internal validation,Random forest,0.5,0.0777777777777778
+MIMIC-IV internal validation,Random forest,0.51,0.0763876565118801
+MIMIC-IV internal validation,Random forest,0.52,0.0756843800322061
+MIMIC-IV internal validation,Random forest,0.53,0.0751361907698633
+MIMIC-IV internal validation,Random forest,0.54,0.0725897920604915
+MIMIC-IV internal validation,Random forest,0.55,0.0689210950080515
+MIMIC-IV internal validation,Random forest,0.56,0.0680281071585419
+MIMIC-IV internal validation,Random forest,0.57,0.0669250645994832
+MIMIC-IV internal validation,Random forest,0.58,0.0668507016333103
+MIMIC-IV internal validation,Random forest,0.59,0.0647814304229999
+MIMIC-IV internal validation,Random forest,0.6,0.0628019323671498
+MIMIC-IV internal validation,Random forest,0.61,0.0589867459432677
+MIMIC-IV internal validation,Random forest,0.62,0.0573862191711162
+MIMIC-IV internal validation,Random forest,0.63,0.0558297427862645
+MIMIC-IV internal validation,Random forest,0.64,0.0561460010735373
+MIMIC-IV internal validation,Random forest,0.65,0.053416149068323
+MIMIC-IV internal validation,Random forest,0.66,0.0505257175333902
+MIMIC-IV internal validation,Random forest,0.67,0.0521007173181086
+MIMIC-IV internal validation,Random forest,0.68,0.0519927536231884
+MIMIC-IV internal validation,Random forest,0.69,0.0509895589839489
+MIMIC-IV internal validation,Random forest,0.7,0.0505636070853462
+MIMIC-IV internal validation,Random forest,0.71,0.0454606030318174
+MIMIC-IV internal validation,Random forest,0.72,0.0416839199447895
+MIMIC-IV internal validation,Random forest,0.73,0.0418321703345858
+MIMIC-IV internal validation,Random forest,0.74,0.040728353771832
+MIMIC-IV internal validation,Random forest,0.75,0.0367149758454106
+MIMIC-IV internal validation,Random forest,0.76,0.0361513687600644
+MIMIC-IV internal validation,Random forest,0.77,0.0333333333333333
+MIMIC-IV internal validation,Random forest,0.78,0.0343434343434343
+MIMIC-IV internal validation,Random forest,0.79,0.0292385553255118
+MIMIC-IV internal validation,Random forest,0.8,0.0265700483091787
+eICU external validation,Random forest,0.01,0.382837272400379
+eICU external validation,Random forest,0.02,0.374574829931973
+eICU external validation,Random forest,0.03,0.367128332165616
+eICU external validation,Random forest,0.04,0.358203546386192
+eICU external validation,Random forest,0.05,0.350802674161131
+eICU external validation,Random forest,0.06,0.341238896922124
+eICU external validation,Random forest,0.07,0.332565594877684
+eICU external validation,Random forest,0.08,0.323096946672295
+eICU external validation,Random forest,0.09,0.316151890181016
+eICU external validation,Random forest,0.1,0.308454692556634
+eICU external validation,Random forest,0.11,0.301827660812334
+eICU external validation,Random forest,0.12,0.293643350985584
+eICU external validation,Random forest,0.13,0.285563832161589
+eICU external validation,Random forest,0.14,0.277771505983292
+eICU external validation,Random forest,0.15,0.272130211307824
+eICU external validation,Random forest,0.16,0.262896825396825
+eICU external validation,Random forest,0.17,0.25671374819667
+eICU external validation,Random forest,0.18,0.2524419843713
+eICU external validation,Random forest,0.19,0.247395521195413
+eICU external validation,Random forest,0.2,0.240898058252427
+eICU external validation,Random forest,0.21,0.231552885994019
+eICU external validation,Random forest,0.22,0.225142104389677
+eICU external validation,Random forest,0.23,0.219775774387425
+eICU external validation,Random forest,0.24,0.213283512178505
+eICU external validation,Random forest,0.25,0.207726537216828
+eICU external validation,Random forest,0.26,0.202434837750372
+eICU external validation,Random forest,0.27,0.196978764906681
+eICU external validation,Random forest,0.28,0.192095918734268
+eICU external validation,Random forest,0.29,0.186126874515703
+eICU external validation,Random forest,0.3,0.181085298196949
+eICU external validation,Random forest,0.31,0.17820751840908
+eICU external validation,Random forest,0.32,0.175304587854559
+eICU external validation,Random forest,0.33,0.170168574602715
+eICU external validation,Random forest,0.34,0.165446945179955
+eICU external validation,Random forest,0.35,0.162061239731143
+eICU external validation,Random forest,0.36,0.157653216019417
+eICU external validation,Random forest,0.37,0.154052370678584
+eICU external validation,Random forest,0.38,0.15030274558931
+eICU external validation,Random forest,0.39,0.144825322298265
+eICU external validation,Random forest,0.4,0.140641855447681
+eICU external validation,Random forest,0.41,0.135624074378805
+eICU external validation,Random forest,0.42,0.132239705390023
+eICU external validation,Random forest,0.43,0.128860784647703
+eICU external validation,Random forest,0.44,0.126647018030513
+eICU external validation,Random forest,0.45,0.121395998823183
+eICU external validation,Random forest,0.46,0.117958168524512
+eICU external validation,Random forest,0.47,0.114615772119436
+eICU external validation,Random forest,0.48,0.107760766741349
+eICU external validation,Random forest,0.49,0.104337204137318
+eICU external validation,Random forest,0.5,0.0997168284789644
+eICU external validation,Random forest,0.51,0.0982390529027145
+eICU external validation,Random forest,0.52,0.0947781823085221
+eICU external validation,Random forest,0.53,0.0926762721200854
+eICU external validation,Random forest,0.54,0.0913096243140565
+eICU external validation,Random forest,0.55,0.0899631427544049
+eICU external validation,Random forest,0.56,0.0865328037658135
+eICU external validation,Random forest,0.57,0.0837896063821781
+eICU external validation,Random forest,0.58,0.0800104022191401
+eICU external validation,Random forest,0.59,0.0785480306259374
+eICU external validation,Random forest,0.6,0.0769619741100324
+eICU external validation,Random forest,0.61,0.0745062650402456
+eICU external validation,Random forest,0.62,0.0724535854198603
+eICU external validation,Random forest,0.63,0.0682836963176769
+eICU external validation,Random forest,0.64,0.0659609852571018
+eICU external validation,Random forest,0.65,0.0619798890429958
+eICU external validation,Random forest,0.66,0.0574076718065867
+eICU external validation,Random forest,0.67,0.0552736098852604
+eICU external validation,Random forest,0.68,0.0537520226537217
+eICU external validation,Random forest,0.69,0.051747311827957
+eICU external validation,Random forest,0.7,0.0500269687162891
+eICU external validation,Random forest,0.71,0.047706729159692
+eICU external validation,Random forest,0.72,0.0442094313453537
+eICU external validation,Random forest,0.73,0.0412396619920892
+eICU external validation,Random forest,0.74,0.0375124470998257
+eICU external validation,Random forest,0.75,0.0335760517799353
+eICU external validation,Random forest,0.76,0.0325984358144552
+eICU external validation,Random forest,0.77,0.0303485999718587
+eICU external validation,Random forest,0.78,0.0278574580759047
+eICU external validation,Random forest,0.79,0.0253987517337032
+eICU external validation,Random forest,0.8,0.022046925566343
+MIMIC-IV internal validation,SVM-RBF,0.01,0.253891572732152
+MIMIC-IV internal validation,SVM-RBF,0.02,0.246278221433501
+MIMIC-IV internal validation,SVM-RBF,0.03,0.23856765775188
+MIMIC-IV internal validation,SVM-RBF,0.04,0.230696457326892
+MIMIC-IV internal validation,SVM-RBF,0.05,0.223620645817442
+MIMIC-IV internal validation,SVM-RBF,0.06,0.217196011923116
+MIMIC-IV internal validation,SVM-RBF,0.07,0.21317334164459
+MIMIC-IV internal validation,SVM-RBF,0.08,0.205944129384583
+MIMIC-IV internal validation,SVM-RBF,0.09,0.20090778786431
+MIMIC-IV internal validation,SVM-RBF,0.1,0.192055823939882
+MIMIC-IV internal validation,SVM-RBF,0.11,0.183813711121967
+MIMIC-IV internal validation,SVM-RBF,0.12,0.179929732103645
+MIMIC-IV internal validation,SVM-RBF,0.13,0.175329002165584
+MIMIC-IV internal validation,SVM-RBF,0.14,0.171014492753623
+MIMIC-IV internal validation,SVM-RBF,0.15,0.167917021881216
+MIMIC-IV internal validation,SVM-RBF,0.16,0.164458247066943
+MIMIC-IV internal validation,SVM-RBF,0.17,0.16071823525988
+MIMIC-IV internal validation,SVM-RBF,0.18,0.156627783669141
+MIMIC-IV internal validation,SVM-RBF,0.19,0.151863780044134
+MIMIC-IV internal validation,SVM-RBF,0.2,0.1506038647343
+MIMIC-IV internal validation,SVM-RBF,0.21,0.146560264171712
+MIMIC-IV internal validation,SVM-RBF,0.22,0.1438127090301
+MIMIC-IV internal validation,SVM-RBF,0.23,0.140303657694962
+MIMIC-IV internal validation,SVM-RBF,0.24,0.136181032290872
+MIMIC-IV internal validation,SVM-RBF,0.25,0.13365539452496
+MIMIC-IV internal validation,SVM-RBF,0.26,0.127784306045176
+MIMIC-IV internal validation,SVM-RBF,0.27,0.122718549401099
+MIMIC-IV internal validation,SVM-RBF,0.28,0.118464841653247
+MIMIC-IV internal validation,SVM-RBF,0.29,0.116806150915153
+MIMIC-IV internal validation,SVM-RBF,0.3,0.113526570048309
+MIMIC-IV internal validation,SVM-RBF,0.31,0.111524189596023
+MIMIC-IV internal validation,SVM-RBF,0.32,0.110116510372265
+MIMIC-IV internal validation,SVM-RBF,0.33,0.106489292667099
+MIMIC-IV internal validation,SVM-RBF,0.34,0.104933391889914
+MIMIC-IV internal validation,SVM-RBF,0.35,0.102043849869937
+MIMIC-IV internal validation,SVM-RBF,0.36,0.0990036231884058
+MIMIC-IV internal validation,SVM-RBF,0.37,0.0979986197377502
+MIMIC-IV internal validation,SVM-RBF,0.38,0.0951690821256038
+MIMIC-IV internal validation,SVM-RBF,0.39,0.0939019561257622
+MIMIC-IV internal validation,SVM-RBF,0.4,0.0911433172302738
+MIMIC-IV internal validation,SVM-RBF,0.41,0.0887496929501351
+MIMIC-IV internal validation,SVM-RBF,0.42,0.0879060469765117
+MIMIC-IV internal validation,SVM-RBF,0.43,0.0859564369861853
+MIMIC-IV internal validation,SVM-RBF,0.44,0.0849206349206349
+MIMIC-IV internal validation,SVM-RBF,0.45,0.0835748792270531
+MIMIC-IV internal validation,SVM-RBF,0.46,0.0818035426731079
+MIMIC-IV internal validation,SVM-RBF,0.47,0.0804119952602315
+MIMIC-IV internal validation,SVM-RBF,0.48,0.0801560758082497
+MIMIC-IV internal validation,SVM-RBF,0.49,0.0781661456853273
+MIMIC-IV internal validation,SVM-RBF,0.5,0.0734299516908213
+MIMIC-IV internal validation,SVM-RBF,0.51,0.0716356107660456
+MIMIC-IV internal validation,SVM-RBF,0.52,0.0699275362318841
+MIMIC-IV internal validation,SVM-RBF,0.53,0.0688559975331483
+MIMIC-IV internal validation,SVM-RBF,0.54,0.0667086746481831
+MIMIC-IV internal validation,SVM-RBF,0.55,0.063016639828234
+MIMIC-IV internal validation,SVM-RBF,0.56,0.0622310057092666
+MIMIC-IV internal validation,SVM-RBF,0.57,0.0604875856645321
+MIMIC-IV internal validation,SVM-RBF,0.58,0.0616517138256269
+MIMIC-IV internal validation,SVM-RBF,0.59,0.0600094261812183
+MIMIC-IV internal validation,SVM-RBF,0.6,0.0608695652173913
+MIMIC-IV internal validation,SVM-RBF,0.61,0.0594698377307073
+MIMIC-IV internal validation,SVM-RBF,0.62,0.0594457157386219
+MIMIC-IV internal validation,SVM-RBF,0.63,0.0565086825956391
+MIMIC-IV internal validation,SVM-RBF,0.64,0.0531400966183575
+MIMIC-IV internal validation,SVM-RBF,0.65,0.0526570048309179
+MIMIC-IV internal validation,SVM-RBF,0.66,0.0523159988633134
+MIMIC-IV internal validation,SVM-RBF,0.67,0.0521299956082565
+MIMIC-IV internal validation,SVM-RBF,0.68,0.0506038647342995
+MIMIC-IV internal validation,SVM-RBF,0.69,0.0490571918341904
+MIMIC-IV internal validation,SVM-RBF,0.7,0.0479871175523349
+MIMIC-IV internal validation,SVM-RBF,0.71,0.0454606030318174
+MIMIC-IV internal validation,SVM-RBF,0.72,0.0431331953071084
+MIMIC-IV internal validation,SVM-RBF,0.73,0.0418321703345858
+MIMIC-IV internal validation,SVM-RBF,0.74,0.040728353771832
+MIMIC-IV internal validation,SVM-RBF,0.75,0.0371980676328502
+MIMIC-IV internal validation,SVM-RBF,0.76,0.0371175523349436
+MIMIC-IV internal validation,SVM-RBF,0.77,0.0331653014072674
+MIMIC-IV internal validation,SVM-RBF,0.78,0.0294246815985946
+MIMIC-IV internal validation,SVM-RBF,0.79,0.0285024154589372
+MIMIC-IV internal validation,SVM-RBF,0.8,0.029951690821256
+eICU external validation,SVM-RBF,0.01,0.382784152201628
+eICU external validation,SVM-RBF,0.02,0.376486031305726
+eICU external validation,SVM-RBF,0.03,0.370070563507156
+eICU external validation,SVM-RBF,0.04,0.363656283710895
+eICU external validation,SVM-RBF,0.05,0.355550587634134
+eICU external validation,SVM-RBF,0.06,0.346730186600565
+eICU external validation,SVM-RBF,0.07,0.3351058739604
+eICU external validation,SVM-RBF,0.08,0.32213838469115
+eICU external validation,SVM-RBF,0.09,0.314400405419823
+eICU external validation,SVM-RBF,0.1,0.304971233369292
+eICU external validation,SVM-RBF,0.11,0.297366459401476
+eICU external validation,SVM-RBF,0.12,0.289910635481024
+eICU external validation,SVM-RBF,0.13,0.282555425361753
+eICU external validation,SVM-RBF,0.14,0.274177767742907
+eICU external validation,SVM-RBF,0.15,0.268144393679802
+eICU external validation,SVM-RBF,0.16,0.260508167668362
+eICU external validation,SVM-RBF,0.17,0.25344825905564
+eICU external validation,SVM-RBF,0.18,0.245653761149262
+eICU external validation,SVM-RBF,0.19,0.239869251668065
+eICU external validation,SVM-RBF,0.2,0.234830097087379
+eICU external validation,SVM-RBF,0.21,0.228577792798329
+eICU external validation,SVM-RBF,0.22,0.2236380798274
+eICU external validation,SVM-RBF,0.23,0.215788257050393
+eICU external validation,SVM-RBF,0.24,0.211665389201158
+eICU external validation,SVM-RBF,0.25,0.206512944983819
+eICU external validation,SVM-RBF,0.26,0.201002580250153
+eICU external validation,SVM-RBF,0.27,0.194745533537261
+eICU external validation,SVM-RBF,0.28,0.190275530384754
+eICU external validation,SVM-RBF,0.29,0.186824832490086
+eICU external validation,SVM-RBF,0.3,0.182847896440129
+eICU external validation,SVM-RBF,0.31,0.178843628347638
+eICU external validation,SVM-RBF,0.32,0.173793546544832
+eICU external validation,SVM-RBF,0.33,0.168453847268512
+eICU external validation,SVM-RBF,0.34,0.163424291458272
+eICU external validation,SVM-RBF,0.35,0.160163057007717
+eICU external validation,SVM-RBF,0.36,0.15332979368932
+eICU external validation,SVM-RBF,0.37,0.147082241742436
+eICU external validation,SVM-RBF,0.38,0.141938093746738
+eICU external validation,SVM-RBF,0.39,0.138565043238368
+eICU external validation,SVM-RBF,0.4,0.134371628910464
+eICU external validation,SVM-RBF,0.41,0.129514974493994
+eICU external validation,SVM-RBF,0.42,0.125725365472604
+eICU external validation,SVM-RBF,0.43,0.122466360074945
+eICU external validation,SVM-RBF,0.44,0.121301433194637
+eICU external validation,SVM-RBF,0.45,0.117479405707561
+eICU external validation,SVM-RBF,0.46,0.114347357065804
+eICU external validation,SVM-RBF,0.47,0.109372137754167
+eICU external validation,SVM-RBF,0.48,0.107994149863082
+eICU external validation,SVM-RBF,0.49,0.106082238720731
+eICU external validation,SVM-RBF,0.5,0.104166666666667
+eICU external validation,SVM-RBF,0.51,0.100769433987187
+eICU external validation,SVM-RBF,0.52,0.0965985706580367
+eICU external validation,SVM-RBF,0.53,0.0921383323004889
+eICU external validation,SVM-RBF,0.54,0.0904390037990713
+eICU external validation,SVM-RBF,0.55,0.0873112189859763
+eICU external validation,SVM-RBF,0.56,0.0822852309502795
+eICU external validation,SVM-RBF,0.57,0.0776322721457063
+eICU external validation,SVM-RBF,0.58,0.0734801202034212
+eICU external validation,SVM-RBF,0.59,0.0712566106243587
+eICU external validation,SVM-RBF,0.6,0.0696804207119741
+eICU external validation,SVM-RBF,0.61,0.0660629823251183
+eICU external validation,SVM-RBF,0.62,0.0642458695281894
+eICU external validation,SVM-RBF,0.63,0.062866264322575
+eICU external validation,SVM-RBF,0.64,0.0613313556274721
+eICU external validation,SVM-RBF,0.65,0.0579345815996302
+eICU external validation,SVM-RBF,0.66,0.0535051399200457
+eICU external validation,SVM-RBF,0.67,0.0498247033441208
+eICU external validation,SVM-RBF,0.68,0.0493780339805825
+eICU external validation,SVM-RBF,0.69,0.0433174130911368
+eICU external validation,SVM-RBF,0.7,0.040722761596548
+eICU external validation,SVM-RBF,0.71,0.0390511661644905
+eICU external validation,SVM-RBF,0.72,0.0381414701803051
+eICU external validation,SVM-RBF,0.73,0.0350293659355148
+eICU external validation,SVM-RBF,0.74,0.0315067214339059
+eICU external validation,SVM-RBF,0.75,0.0303398058252427
+eICU external validation,SVM-RBF,0.76,0.027440668824164
+eICU external validation,SVM-RBF,0.77,0.0235859012241452
+eICU external validation,SVM-RBF,0.78,0.0209068843777582
+eICU external validation,SVM-RBF,0.79,0.0181460933888118
+eICU external validation,SVM-RBF,0.8,0.0184061488673139
+MIMIC-IV internal validation,k-NN,0.01,0.253754940711462
+MIMIC-IV internal validation,k-NN,0.02,0.244809228039042
+MIMIC-IV internal validation,k-NN,0.03,0.236859405348872
+MIMIC-IV internal validation,k-NN,0.04,0.22866344605475
+MIMIC-IV internal validation,k-NN,0.05,0.2209255021612
+MIMIC-IV internal validation,k-NN,0.06,0.212663171960119
+MIMIC-IV internal validation,k-NN,0.07,0.205895797620903
+MIMIC-IV internal validation,k-NN,0.08,0.200210039907582
+MIMIC-IV internal validation,k-NN,0.09,0.193098688750863
+MIMIC-IV internal validation,k-NN,0.1,0.188244766505636
+MIMIC-IV internal validation,k-NN,0.11,0.182869239537535
+MIMIC-IV internal validation,k-NN,0.12,0.177646025472112
+MIMIC-IV internal validation,k-NN,0.13,0.171730801266034
+MIMIC-IV internal validation,k-NN,0.14,0.167340748230536
+MIMIC-IV internal validation,k-NN,0.15,0.164592213697073
+MIMIC-IV internal validation,k-NN,0.16,0.161950770646423
+MIMIC-IV internal validation,k-NN,0.17,0.159146731854956
+MIMIC-IV internal validation,k-NN,0.18,0.153576057499705
+MIMIC-IV internal validation,k-NN,0.19,0.149168008588298
+MIMIC-IV internal validation,k-NN,0.2,0.147342995169082
+MIMIC-IV internal validation,k-NN,0.21,0.142854522106036
+MIMIC-IV internal validation,k-NN,0.22,0.138560634212808
+MIMIC-IV internal validation,k-NN,0.23,0.133239224543572
+MIMIC-IV internal validation,k-NN,0.24,0.128883803712179
+MIMIC-IV internal validation,k-NN,0.25,0.124959742351047
+MIMIC-IV internal validation,k-NN,0.26,0.123580101840971
+MIMIC-IV internal validation,k-NN,0.27,0.119489113890543
+MIMIC-IV internal validation,k-NN,0.28,0.114680622651637
+MIMIC-IV internal validation,k-NN,0.29,0.110512349459073
+MIMIC-IV internal validation,k-NN,0.3,0.106280193236715
+MIMIC-IV internal validation,k-NN,0.31,0.103584681089407
+MIMIC-IV internal validation,k-NN,0.32,0.100397840295539
+MIMIC-IV internal validation,k-NN,0.33,0.0982911529309972
+MIMIC-IV internal validation,k-NN,0.34,0.0967354706485141
+MIMIC-IV internal validation,k-NN,0.35,0.0964697138610182
+MIMIC-IV internal validation,k-NN,0.36,0.0938405797101449
+MIMIC-IV internal validation,k-NN,0.37,0.0911433172302737
+MIMIC-IV internal validation,k-NN,0.38,0.0916471871591086
+MIMIC-IV internal validation,k-NN,0.39,0.0859903381642512
+MIMIC-IV internal validation,k-NN,0.4,0.0821256038647343
+MIMIC-IV internal validation,k-NN,0.41,0.0794726930320151
+MIMIC-IV internal validation,k-NN,0.42,0.0759453606530068
+MIMIC-IV internal validation,k-NN,0.43,0.0746927705737774
+MIMIC-IV internal validation,k-NN,0.44,0.072912353347136
+MIMIC-IV internal validation,k-NN,0.45,0.0699604743083004
+MIMIC-IV internal validation,k-NN,0.46,0.0686348183932725
+MIMIC-IV internal validation,k-NN,0.47,0.0675872755446176
+MIMIC-IV internal validation,k-NN,0.48,0.0672984020810108
+MIMIC-IV internal validation,k-NN,0.49,0.0656436487638534
+MIMIC-IV internal validation,k-NN,0.5,0.0661835748792271
+MIMIC-IV internal validation,k-NN,0.51,0.0644286700187321
+MIMIC-IV internal validation,k-NN,0.52,0.0622383252818035
+MIMIC-IV internal validation,k-NN,0.53,0.0611882002261281
+MIMIC-IV internal validation,k-NN,0.54,0.0592312539382483
+MIMIC-IV internal validation,k-NN,0.55,0.0573805689747719
+MIMIC-IV internal validation,k-NN,0.56,0.056873078612209
+MIMIC-IV internal validation,k-NN,0.57,0.0528816986855409
+MIMIC-IV internal validation,k-NN,0.58,0.0526800092017483
+MIMIC-IV internal validation,k-NN,0.59,0.0513491221868741
+MIMIC-IV internal validation,k-NN,0.6,0.0509661835748792
+MIMIC-IV internal validation,k-NN,0.61,0.0477889260497956
+MIMIC-IV internal validation,k-NN,0.62,0.0420035596236969
+MIMIC-IV internal validation,k-NN,0.63,0.0401357879618749
+MIMIC-IV internal validation,k-NN,0.64,0.0353193773483629
+MIMIC-IV internal validation,k-NN,0.65,0.0308488612836439
+MIMIC-IV internal validation,k-NN,0.66,0.0277351520318272
+MIMIC-IV internal validation,k-NN,0.67,0.0250329380764163
+MIMIC-IV internal validation,k-NN,0.68,0.0230072463768116
+MIMIC-IV internal validation,k-NN,0.69,0.0215209599501325
+MIMIC-IV internal validation,k-NN,0.7,0.0170692431561997
+MIMIC-IV internal validation,k-NN,0.71,0.0169082125603865
+MIMIC-IV internal validation,k-NN,0.72,0.0158040027605245
+MIMIC-IV internal validation,k-NN,0.73,0.0157094292359993
+MIMIC-IV internal validation,k-NN,0.74,0.0126718691936083
+MIMIC-IV internal validation,k-NN,0.75,0.0106280193236715
+MIMIC-IV internal validation,k-NN,0.76,0.0126409017713366
+MIMIC-IV internal validation,k-NN,0.77,0.0129384583070783
+MIMIC-IV internal validation,k-NN,0.78,0.0129995608256478
+MIMIC-IV internal validation,k-NN,0.79,0.00959282263630089
+MIMIC-IV internal validation,k-NN,0.8,0.0106280193236715
+eICU external validation,k-NN,0.01,0.379598983361119
+eICU external validation,k-NN,0.02,0.369419126874051
+eICU external validation,k-NN,0.03,0.359719580956194
+eICU external validation,k-NN,0.04,0.351410800970874
+eICU external validation,k-NN,0.05,0.342094617611991
+eICU external validation,k-NN,0.06,0.333944432968395
+eICU external validation,k-NN,0.07,0.324366235167206
+eICU external validation,k-NN,0.08,0.313141972702969
+eICU external validation,k-NN,0.09,0.302346722856432
+eICU external validation,k-NN,0.1,0.293239841783531
+eICU external validation,k-NN,0.11,0.284546471037417
+eICU external validation,k-NN,0.12,0.277774713150927
+eICU external validation,k-NN,0.13,0.271658669047353
+eICU external validation,k-NN,0.14,0.264793595243471
+eICU external validation,k-NN,0.15,0.257745573957738
+eICU external validation,k-NN,0.16,0.251704808136847
+eICU external validation,k-NN,0.17,0.246208133504893
+eICU external validation,k-NN,0.18,0.238411674165285
+eICU external validation,k-NN,0.19,0.230814754884334
+eICU external validation,k-NN,0.2,0.223048139158576
+eICU external validation,k-NN,0.21,0.217655462701241
+eICU external validation,k-NN,0.22,0.211777030951788
+eICU external validation,k-NN,0.23,0.207038309586853
+eICU external validation,k-NN,0.24,0.201977942428888
+eICU external validation,k-NN,0.25,0.195658036677454
+eICU external validation,k-NN,0.26,0.189954517624421
+eICU external validation,k-NN,0.27,0.183598771999823
+eICU external validation,k-NN,0.28,0.178049712333693
+eICU external validation,k-NN,0.29,0.170974064451434
+eICU external validation,k-NN,0.3,0.165655339805825
+eICU external validation,k-NN,0.31,0.159188710660851
+eICU external validation,k-NN,0.32,0.15434037692747
+eICU external validation,k-NN,0.33,0.148556368642226
+eICU external validation,k-NN,0.34,0.144129400804158
+eICU external validation,k-NN,0.35,0.139594224545681
+eICU external validation,k-NN,0.36,0.136175161812298
+eICU external validation,k-NN,0.37,0.132631504597524
+eICU external validation,k-NN,0.38,0.127942634930577
+eICU external validation,k-NN,0.39,0.124827577059791
+eICU external validation,k-NN,0.4,0.120078209277238
+eICU external validation,k-NN,0.41,0.115284405682628
+eICU external validation,k-NN,0.42,0.110694955920098
+eICU external validation,k-NN,0.43,0.107413558167263
+eICU external validation,k-NN,0.44,0.104354484512251
+eICU external validation,k-NN,0.45,0.100930420711974
+eICU external validation,k-NN,0.46,0.0967502696871629
+eICU external validation,k-NN,0.47,0.0943434389692862
+eICU external validation,k-NN,0.48,0.0902570326114015
+eICU external validation,k-NN,0.49,0.0868154705247795
+eICU external validation,k-NN,0.5,0.0839401294498382
+eICU external validation,k-NN,0.51,0.0801920282676177
+eICU external validation,k-NN,0.52,0.0763888888888889
+eICU external validation,k-NN,0.53,0.0726907319424361
+eICU external validation,k-NN,0.54,0.0694649641198818
+eICU external validation,k-NN,0.55,0.0652193455591514
+eICU external validation,k-NN,0.56,0.0613047955280965
+eICU external validation,k-NN,0.57,0.0586804771581245
+eICU external validation,k-NN,0.58,0.0533884265680382
+eICU external validation,k-NN,0.59,0.0522979319599021
+eICU external validation,k-NN,0.6,0.0486448220064725
+eICU external validation,k-NN,0.61,0.046915193759854
+eICU external validation,k-NN,0.62,0.0473513881791858
+eICU external validation,k-NN,0.63,0.0442469168197324
+eICU external validation,k-NN,0.64,0.0420711974110032
+eICU external validation,k-NN,0.65,0.040713129912159
+eICU external validation,k-NN,0.66,0.0383709308966305
+eICU external validation,k-NN,0.67,0.0372842502696872
+eICU external validation,k-NN,0.68,0.0353711569579288
+eICU external validation,k-NN,0.69,0.0331845704144483
+eICU external validation,k-NN,0.7,0.031957928802589
+eICU external validation,k-NN,0.71,0.031037272625823
+eICU external validation,k-NN,0.72,0.0324202496532594
+eICU external validation,k-NN,0.73,0.0279201126693036
+eICU external validation,k-NN,0.74,0.025143141647996
+eICU external validation,k-NN,0.75,0.0222491909385113
+eICU external validation,k-NN,0.76,0.0209344660194175
+eICU external validation,k-NN,0.77,0.0171046151681441
+eICU external validation,k-NN,0.78,0.0149124742571345
+eICU external validation,k-NN,0.79,0.013850362151333
+eICU external validation,k-NN,0.8,0.00930420711974109
+MIMIC-IV internal validation,Treat all,0.01,0.253891572732152
+MIMIC-IV internal validation,Treat all,0.02,0.246278221433501
+MIMIC-IV internal validation,Treat all,0.03,0.238507893819413
+MIMIC-IV internal validation,Treat all,0.04,0.230575684380032
+MIMIC-IV internal validation,Treat all,0.05,0.222476481057717
+MIMIC-IV internal validation,Treat all,0.06,0.214204954260458
+MIMIC-IV internal validation,Treat all,0.07,0.205755545166485
+MIMIC-IV internal validation,Treat all,0.08,0.197122453266121
+MIMIC-IV internal validation,Treat all,0.09,0.188299623082232
+MIMIC-IV internal validation,Treat all,0.1,0.179280730005368
+MIMIC-IV internal validation,Treat all,0.11,0.170059165173967
+MIMIC-IV internal validation,Treat all,0.12,0.160628019323672
+MIMIC-IV internal validation,Treat all,0.13,0.150980065522794
+MIMIC-IV internal validation,Treat all,0.14,0.141107740703292
+MIMIC-IV internal validation,Treat all,0.15,0.131003125888036
+MIMIC-IV internal validation,Treat all,0.16,0.120657925005751
+MIMIC-IV internal validation,Treat all,0.17,0.110063442174495
+MIMIC-IV internal validation,Treat all,0.18,0.0992105573229645
+MIMIC-IV internal validation,Treat all,0.19,0.0880897000059641
+MIMIC-IV internal validation,Treat all,0.2,0.0766908212560386
+MIMIC-IV internal validation,Treat all,0.21,0.0650033632972543
+MIMIC-IV internal validation,Treat all,0.22,0.0530162269292704
+MIMIC-IV internal validation,Treat all,0.23,0.0407177363699103
+MIMIC-IV internal validation,Treat all,0.24,0.0280956013221459
+MIMIC-IV internal validation,Treat all,0.25,0.0151368760064412
+MIMIC-IV internal validation,Treat all,0.26,0.00182791487139311
+MIMIC-IV internal validation,Treat all,0.27,-0.0118456753358481
+MIMIC-IV internal validation,Treat all,0.28,-0.0258990874932905
+MIMIC-IV internal validation,Treat all,0.29,-0.0403483704157312
+MIMIC-IV internal validation,Treat all,0.3,-0.0552104899930987
+MIMIC-IV internal validation,Treat all,0.31,-0.0705033956451726
+MIMIC-IV internal validation,Treat all,0.32,-0.0862460926399546
+MIMIC-IV internal validation,Treat all,0.33,-0.102458720888312
+MIMIC-IV internal validation,Treat all,0.34,-0.119162640901771
+MIMIC-IV internal validation,Treat all,0.35,-0.136380527684876
+MIMIC-IV internal validation,Treat all,0.36,-0.154136473429952
+MIMIC-IV internal validation,Treat all,0.37,-0.172456099992332
+MIMIC-IV internal validation,Treat all,0.38,-0.191366682250273
+MIMIC-IV internal validation,Treat all,0.39,-0.210897283598638
+MIMIC-IV internal validation,Treat all,0.4,-0.231078904991949
+MIMIC-IV internal validation,Treat all,0.41,-0.251944649144354
+MIMIC-IV internal validation,Treat all,0.42,-0.273529901715809
+MIMIC-IV internal validation,Treat all,0.43,-0.295872531570472
+MIMIC-IV internal validation,Treat all,0.44,-0.319013112491373
+MIMIC-IV internal validation,Treat all,0.45,-0.342995169082126
+MIMIC-IV internal validation,Treat all,0.46,-0.367865449991054
+MIMIC-IV internal validation,Treat all,0.47,-0.393674232066357
+MIMIC-IV internal validation,Treat all,0.48,-0.420475659606094
+MIMIC-IV internal validation,Treat all,0.49,-0.448328123519939
+MIMIC-IV internal validation,Treat all,0.5,-0.477294685990338
+MIMIC-IV internal validation,Treat all,0.51,-0.507443557132998
+MIMIC-IV internal validation,Treat all,0.52,-0.538848631239936
+MIMIC-IV internal validation,Treat all,0.53,-0.571590091479083
+MIMIC-IV internal validation,Treat all,0.54,-0.605755093467759
+MIMIC-IV internal validation,Treat all,0.55,-0.641438539989265
+MIMIC-IV internal validation,Treat all,0.56,-0.678743961352657
+MIMIC-IV internal validation,Treat all,0.57,-0.717784518593417
+MIMIC-IV internal validation,Treat all,0.58,-0.758684149988498
+MIMIC-IV internal validation,Treat all,0.59,-0.801578885354071
+MIMIC-IV internal validation,Treat all,0.6,-0.846618357487923
+MIMIC-IV internal validation,Treat all,0.61,-0.893967546141459
+MIMIC-IV internal validation,Treat all,0.62,-0.943808797355708
+MIMIC-IV internal validation,Treat all,0.63,-0.996344170257214
+MIMIC-IV internal validation,Treat all,0.64,-1.05179817498658
+MIMIC-IV internal validation,Treat all,0.65,-1.1104209799862
+MIMIC-IV internal validation,Treat all,0.66,-1.17249218527991
+MIMIC-IV internal validation,Treat all,0.67,-1.23832528180354
+MIMIC-IV internal validation,Treat all,0.68,-1.3082729468599
+MIMIC-IV internal validation,Treat all,0.69,-1.38273336450055
+MIMIC-IV internal validation,Treat all,0.7,-1.4621578099839
+MIMIC-IV internal validation,Treat all,0.71,-1.54705980343162
+MIMIC-IV internal validation,Treat all,0.72,-1.63802622498275
+MIMIC-IV internal validation,Treat all,0.73,-1.73573089998211
+MIMIC-IV internal validation,Treat all,0.74,-1.84095131921219
+MIMIC-IV internal validation,Treat all,0.75,-1.95458937198068
+MIMIC-IV internal validation,Treat all,0.76,-2.07769726247987
+MIMIC-IV internal validation,Treat all,0.77,-2.21151018693552
+MIMIC-IV internal validation,Treat all,0.78,-2.35748792270531
+MIMIC-IV internal validation,Treat all,0.79,-2.517368299977
+MIMIC-IV internal validation,Treat all,0.8,-2.69323671497585
+MIMIC-IV internal validation,Treat none,0.01,0
+MIMIC-IV internal validation,Treat none,0.02,0
+MIMIC-IV internal validation,Treat none,0.03,0
+MIMIC-IV internal validation,Treat none,0.04,0
+MIMIC-IV internal validation,Treat none,0.05,0
+MIMIC-IV internal validation,Treat none,0.06,0
+MIMIC-IV internal validation,Treat none,0.07,0
+MIMIC-IV internal validation,Treat none,0.08,0
+MIMIC-IV internal validation,Treat none,0.09,0
+MIMIC-IV internal validation,Treat none,0.1,0
+MIMIC-IV internal validation,Treat none,0.11,0
+MIMIC-IV internal validation,Treat none,0.12,0
+MIMIC-IV internal validation,Treat none,0.13,0
+MIMIC-IV internal validation,Treat none,0.14,0
+MIMIC-IV internal validation,Treat none,0.15,0
+MIMIC-IV internal validation,Treat none,0.16,0
+MIMIC-IV internal validation,Treat none,0.17,0
+MIMIC-IV internal validation,Treat none,0.18,0
+MIMIC-IV internal validation,Treat none,0.19,0
+MIMIC-IV internal validation,Treat none,0.2,0
+MIMIC-IV internal validation,Treat none,0.21,0
+MIMIC-IV internal validation,Treat none,0.22,0
+MIMIC-IV internal validation,Treat none,0.23,0
+MIMIC-IV internal validation,Treat none,0.24,0
+MIMIC-IV internal validation,Treat none,0.25,0
+MIMIC-IV internal validation,Treat none,0.26,0
+MIMIC-IV internal validation,Treat none,0.27,0
+MIMIC-IV internal validation,Treat none,0.28,0
+MIMIC-IV internal validation,Treat none,0.29,0
+MIMIC-IV internal validation,Treat none,0.3,0
+MIMIC-IV internal validation,Treat none,0.31,0
+MIMIC-IV internal validation,Treat none,0.32,0
+MIMIC-IV internal validation,Treat none,0.33,0
+MIMIC-IV internal validation,Treat none,0.34,0
+MIMIC-IV internal validation,Treat none,0.35,0
+MIMIC-IV internal validation,Treat none,0.36,0
+MIMIC-IV internal validation,Treat none,0.37,0
+MIMIC-IV internal validation,Treat none,0.38,0
+MIMIC-IV internal validation,Treat none,0.39,0
+MIMIC-IV internal validation,Treat none,0.4,0
+MIMIC-IV internal validation,Treat none,0.41,0
+MIMIC-IV internal validation,Treat none,0.42,0
+MIMIC-IV internal validation,Treat none,0.43,0
+MIMIC-IV internal validation,Treat none,0.44,0
+MIMIC-IV internal validation,Treat none,0.45,0
+MIMIC-IV internal validation,Treat none,0.46,0
+MIMIC-IV internal validation,Treat none,0.47,0
+MIMIC-IV internal validation,Treat none,0.48,0
+MIMIC-IV internal validation,Treat none,0.49,0
+MIMIC-IV internal validation,Treat none,0.5,0
+MIMIC-IV internal validation,Treat none,0.51,0
+MIMIC-IV internal validation,Treat none,0.52,0
+MIMIC-IV internal validation,Treat none,0.53,0
+MIMIC-IV internal validation,Treat none,0.54,0
+MIMIC-IV internal validation,Treat none,0.55,0
+MIMIC-IV internal validation,Treat none,0.56,0
+MIMIC-IV internal validation,Treat none,0.57,0
+MIMIC-IV internal validation,Treat none,0.58,0
+MIMIC-IV internal validation,Treat none,0.59,0
+MIMIC-IV internal validation,Treat none,0.6,0
+MIMIC-IV internal validation,Treat none,0.61,0
+MIMIC-IV internal validation,Treat none,0.62,0
+MIMIC-IV internal validation,Treat none,0.63,0
+MIMIC-IV internal validation,Treat none,0.64,0
+MIMIC-IV internal validation,Treat none,0.65,0
+MIMIC-IV internal validation,Treat none,0.66,0
+MIMIC-IV internal validation,Treat none,0.67,0
+MIMIC-IV internal validation,Treat none,0.68,0
+MIMIC-IV internal validation,Treat none,0.69,0
+MIMIC-IV internal validation,Treat none,0.7,0
+MIMIC-IV internal validation,Treat none,0.71,0
+MIMIC-IV internal validation,Treat none,0.72,0
+MIMIC-IV internal validation,Treat none,0.73,0
+MIMIC-IV internal validation,Treat none,0.74,0
+MIMIC-IV internal validation,Treat none,0.75,0
+MIMIC-IV internal validation,Treat none,0.76,0
+MIMIC-IV internal validation,Treat none,0.77,0
+MIMIC-IV internal validation,Treat none,0.78,0
+MIMIC-IV internal validation,Treat none,0.79,0
+MIMIC-IV internal validation,Treat none,0.8,0
+eICU external validation,Treat all,0.01,0.382784152201628
+eICU external validation,Treat all,0.02,0.376486031305726
+eICU external validation,Treat all,0.03,0.370058052247022
+eICU external validation,Treat all,0.04,0.363496156957929
+eICU external validation,Treat all,0.05,0.356796116504854
+eICU external validation,Treat all,0.06,0.349953521999587
+eICU external validation,Treat all,0.07,0.342963774924314
+eICU external validation,Treat all,0.08,0.335822076825665
+eICU external validation,Treat all,0.09,0.328523418329244
+eICU external validation,Treat all,0.1,0.321062567421791
+eICU external validation,Treat all,0.11,0.313434056943384
+eICU external validation,Treat all,0.12,0.305632171226831
+eICU external validation,Treat all,0.13,0.297650931815646
+eICU external validation,Treat all,0.14,0.289484082185595
+eICU external validation,Treat all,0.15,0.281125071387778
+eICU external validation,Treat all,0.16,0.272567036523347
+eICU external validation,Treat all,0.17,0.263802783951339
+eICU external validation,Treat all,0.18,0.254824769121478
+eICU external validation,Treat all,0.19,0.245625074913101
+eICU external validation,Treat all,0.2,0.236195388349515
+eICU external validation,Treat all,0.21,0.226526975543812
+eICU external validation,Treat all,0.22,0.216610654717451
+eICU external validation,Treat all,0.23,0.206436767116379
+eICU external validation,Treat all,0.24,0.195995145631068
+eICU external validation,Treat all,0.25,0.185275080906149
+eICU external validation,Treat all,0.26,0.174265284702178
+eICU external validation,Treat all,0.27,0.162953850246043
+eICU external validation,Treat all,0.28,0.151328209277238
+eICU external validation,Treat all,0.29,0.139375085464242
+eICU external validation,Treat all,0.3,0.127080443828017
+eICU external validation,Treat all,0.31,0.114429435767553
+eICU external validation,Treat all,0.32,0.101406339234723
+eICU external validation,Treat all,0.33,0.0879944935516592
+eICU external validation,Treat all,0.34,0.0741762283024419
+eICU external validation,Treat all,0.35,0.059932785660941
+eICU external validation,Treat all,0.36,0.0452442354368932
+eICU external validation,Treat all,0.37,0.0300893820311297
+eICU external validation,Treat all,0.38,0.0144456623864704
+eICU external validation,Treat all,0.39,-0.00171096609899729
+eICU external validation,Treat all,0.4,-0.0184061488673139
+eICU external validation,Treat all,0.41,-0.0356672700345566
+eICU external validation,Treat all,0.42,-0.0535236022765316
+eICU external validation,Treat all,0.43,-0.0720064724919093
+eICU external validation,Treat all,0.44,-0.0911494452149791
+eICU external validation,Treat all,0.45,-0.11098852603707
+eICU external validation,Treat all,0.46,-0.131562387630349
+eICU external validation,Treat all,0.47,-0.152912621359223
+eICU external validation,Treat all,0.48,-0.175084017923824
+eICU external validation,Treat all,0.49,-0.198124881020369
+eICU external validation,Treat all,0.5,-0.222087378640777
+eICU external validation,Treat all,0.51,-0.247027937388548
+eICU external validation,Treat all,0.52,-0.273007686084142
+eICU external validation,Treat all,0.53,-0.300092956000826
+eICU external validation,Treat all,0.54,-0.32835584634867
+eICU external validation,Treat all,0.55,-0.357874865156419
+eICU external validation,Treat all,0.56,-0.388735657546337
+eICU external validation,Treat all,0.57,-0.42103183562881
+eICU external validation,Treat all,0.58,-0.454865926953306
+eICU external validation,Treat all,0.59,-0.490350461757045
+eICU external validation,Treat all,0.6,-0.527609223300971
+eICU external validation,Treat all,0.61,-0.566778690565098
+eICU external validation,Treat all,0.62,-0.608009708737864
+eICU external validation,Treat all,0.63,-0.651469430595644
+eICU external validation,Treat all,0.64,-0.697343581445523
+eICU external validation,Treat all,0.65,-0.745839112343967
+eICU external validation,Treat all,0.66,-0.797187321530554
+eICU external validation,Treat all,0.67,-0.851647543395116
+eICU external validation,Treat all,0.68,-0.909511529126214
+eICU external validation,Treat all,0.69,-0.971108675227059
+eICU external validation,Treat all,0.7,-1.03681229773463
+eICU external validation,Treat all,0.71,-1.10704720455306
+eICU external validation,Treat all,0.72,-1.18229889042996
+eICU external validation,Treat all,0.73,-1.2631247752607
+eICU external validation,Treat all,0.74,-1.35016803584765
+eICU external validation,Treat all,0.75,-1.44417475728155
+eICU external validation,Treat all,0.76,-1.54601537216828
+eICU external validation,Treat all,0.77,-1.65671169269734
+eICU external validation,Treat all,0.78,-1.77747131509267
+eICU external validation,Treat all,0.79,-1.90973185390661
+eICU external validation,Treat all,0.8,-2.05521844660194
+eICU external validation,Treat none,0.01,0
+eICU external validation,Treat none,0.02,0
+eICU external validation,Treat none,0.03,0
+eICU external validation,Treat none,0.04,0
+eICU external validation,Treat none,0.05,0
+eICU external validation,Treat none,0.06,0
+eICU external validation,Treat none,0.07,0
+eICU external validation,Treat none,0.08,0
+eICU external validation,Treat none,0.09,0
+eICU external validation,Treat none,0.1,0
+eICU external validation,Treat none,0.11,0
+eICU external validation,Treat none,0.12,0
+eICU external validation,Treat none,0.13,0
+eICU external validation,Treat none,0.14,0
+eICU external validation,Treat none,0.15,0
+eICU external validation,Treat none,0.16,0
+eICU external validation,Treat none,0.17,0
+eICU external validation,Treat none,0.18,0
+eICU external validation,Treat none,0.19,0
+eICU external validation,Treat none,0.2,0
+eICU external validation,Treat none,0.21,0
+eICU external validation,Treat none,0.22,0
+eICU external validation,Treat none,0.23,0
+eICU external validation,Treat none,0.24,0
+eICU external validation,Treat none,0.25,0
+eICU external validation,Treat none,0.26,0
+eICU external validation,Treat none,0.27,0
+eICU external validation,Treat none,0.28,0
+eICU external validation,Treat none,0.29,0
+eICU external validation,Treat none,0.3,0
+eICU external validation,Treat none,0.31,0
+eICU external validation,Treat none,0.32,0
+eICU external validation,Treat none,0.33,0
+eICU external validation,Treat none,0.34,0
+eICU external validation,Treat none,0.35,0
+eICU external validation,Treat none,0.36,0
+eICU external validation,Treat none,0.37,0
+eICU external validation,Treat none,0.38,0
+eICU external validation,Treat none,0.39,0
+eICU external validation,Treat none,0.4,0
+eICU external validation,Treat none,0.41,0
+eICU external validation,Treat none,0.42,0
+eICU external validation,Treat none,0.43,0
+eICU external validation,Treat none,0.44,0
+eICU external validation,Treat none,0.45,0
+eICU external validation,Treat none,0.46,0
+eICU external validation,Treat none,0.47,0
+eICU external validation,Treat none,0.48,0
+eICU external validation,Treat none,0.49,0
+eICU external validation,Treat none,0.5,0
+eICU external validation,Treat none,0.51,0
+eICU external validation,Treat none,0.52,0
+eICU external validation,Treat none,0.53,0
+eICU external validation,Treat none,0.54,0
+eICU external validation,Treat none,0.55,0
+eICU external validation,Treat none,0.56,0
+eICU external validation,Treat none,0.57,0
+eICU external validation,Treat none,0.58,0
+eICU external validation,Treat none,0.59,0
+eICU external validation,Treat none,0.6,0
+eICU external validation,Treat none,0.61,0
+eICU external validation,Treat none,0.62,0
+eICU external validation,Treat none,0.63,0
+eICU external validation,Treat none,0.64,0
+eICU external validation,Treat none,0.65,0
+eICU external validation,Treat none,0.66,0
+eICU external validation,Treat none,0.67,0
+eICU external validation,Treat none,0.68,0
+eICU external validation,Treat none,0.69,0
+eICU external validation,Treat none,0.7,0
+eICU external validation,Treat none,0.71,0
+eICU external validation,Treat none,0.72,0
+eICU external validation,Treat none,0.73,0
+eICU external validation,Treat none,0.74,0
+eICU external validation,Treat none,0.75,0
+eICU external validation,Treat none,0.76,0
+eICU external validation,Treat none,0.77,0
+eICU external validation,Treat none,0.78,0
+eICU external validation,Treat none,0.79,0
+eICU external validation,Treat none,0.8,0

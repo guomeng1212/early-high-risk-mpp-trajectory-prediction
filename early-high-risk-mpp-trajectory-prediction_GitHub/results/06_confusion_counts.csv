@@ -1,0 +1,16 @@
+﻿Cohort,Model,TP,TN,FP,FN
+MIMIC-IV training OOF,log_reg,929,2762,804,331
+MIMIC-IV training OOF,xgboost,927,2826,740,333
+MIMIC-IV training OOF,ranger,844,3023,543,416
+MIMIC-IV training OOF,svm,940,2756,810,320
+MIMIC-IV training OOF,kknn,938,2557,1009,322
+MIMIC-IV internal validation,log_reg,399,1189,340,142
+MIMIC-IV internal validation,xgboost,378,1220,309,163
+MIMIC-IV internal validation,ranger,343,1295,234,198
+MIMIC-IV internal validation,svm,393,1189,340,148
+MIMIC-IV internal validation,kknn,399,1114,415,142
+eICU external validation,log_reg,1316,2202,819,607
+eICU external validation,xgboost,1279,2261,760,644
+eICU external validation,ranger,1150,2419,602,773
+eICU external validation,svm,1352,2103,918,571
+eICU external validation,kknn,1285,2060,961,638

@@ -1,0 +1,37 @@
+Package: MPPTrajectoryPrediction
+Type: Project
+Title: Early High-Risk Mean Perfusion Pressure Trajectory Prediction after Cardiac Surgery
+Version: 0.1.0
+Authors@R: person("Kangxing", "Wang", role = c("aut", "cre"))
+Description: R analysis workflow and local research calculator for predicting
+    membership in predefined high-risk mean perfusion pressure trajectories
+    (Classes 1 and 3 combined) after CABG and/or valve surgery. MIMIC-IV is
+    the development cohort and eICU is the external-validation cohort.
+Depends: R (>= 4.4.0)
+Imports:
+    bbotk,
+    bslib,
+    data.table,
+    e1071,
+    future,
+    future.apply,
+    ggplot2,
+    glmnet,
+    jsonlite,
+    kknn,
+    mlr3,
+    mlr3learners,
+    mlr3tuning,
+    openxlsx,
+    paradox,
+    parallelly,
+    pROC,
+    ragg,
+    ranger,
+    renv,
+    scales,
+    shiny,
+    viridisLite,
+    xgboost
+License: MIT + file LICENSE
+Encoding: UTF-8

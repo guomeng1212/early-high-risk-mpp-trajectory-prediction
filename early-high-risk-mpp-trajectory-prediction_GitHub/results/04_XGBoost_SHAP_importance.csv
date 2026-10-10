@@ -1,0 +1,14 @@
+﻿Feature,MeanAbsSHAP,Parent,Label,Rank
+MPP,1.06969094533566,MPP,Initial MPP,1
+Mechanical_VentilationYes,0.215379081360996,Mechanical_Ventilation,Mechanical ventilation: Yes,2
+CCI,0.150695559658459,CCI,CCI,3
+Hb,0.147218365649343,Hb,Hb,4
+SOFA,0.129931237241253,SOFA,SOFA,5
+VasopressorsYes,0.114973677854985,Vasopressors,Vasopressors: Yes,6
+Age,0.103089412142246,Age,Age,7
+Plt,0.0996684284869698,Plt,Plt,8
+GenderF,0.0503258741442114,Gender,Gender: F,9
+ValveYes,0.0221643482003419,Valve,Valve: Yes,10
+CABGYes,0.0159472747477703,CABG,CABG: Yes,11
+RaceWhite,0.00902053217956563,Race,Race: White,12
+RaceBlack,0.00207417483086465,Race,Race: Black,13
